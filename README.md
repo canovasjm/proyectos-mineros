@@ -7,7 +7,7 @@ Scripts:
 
 * `sandbox.py`: contiene varias cosas que probé mientras exploraba el dataset. No todo el código funciona.  
 * `script.py`: contiene el código que funciona y presentado de forma ordenada.  
-* `proyectos_mineros.ipynb`: contiene el mismo código que `script.py`, junto con algunos comentarios, en un Jupyter notebook.  
+* `proyectos_mineros.ipynb`: contiene el mismo código que `script.py`, junto con algunos comentarios, en un Jupyter notebook. Se puede ver el notebook de forma interactiva [aquí](https://nbviewer.jupyter.org/github/canovasjm/proyectos-mineros/blob/master/proyectos_mineros.ipynb)     
 
 Carpetas:   
 * `data/`: carpeta donde se guardan el dataset con información sobre los proyectos y el mapa base de Argentina.  
